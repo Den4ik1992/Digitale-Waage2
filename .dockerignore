@@ -1,0 +1,23 @@
+# Entwicklungs-Artefakte
+node_modules
+npm-debug.log
+.git
+.gitignore
+.env
+.env.local
+.env.*.local
+
+# Build-Verzeichnisse
+dist
+build
+coverage
+
+# Editor-Verzeichnisse
+.idea
+.vscode
+*.swp
+*.swo
+
+# Betriebssystem-Dateien
+.DS_Store
+Thumbs.db
